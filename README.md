@@ -59,4 +59,4 @@ It simulates a real-world detection-to-response pipeline, where execution of mal
 
 
 ## 📸 Project Screenshots
-
+  [IMAGES](https://github.com/pravinkumar-security/SOAR-EDR-PROJECT/tree/main/Screenshots)
